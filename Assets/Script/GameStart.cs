@@ -5,9 +5,21 @@ using UnityEngine.SceneManagement;
 
 public class GameStart : MonoBehaviour
 {
-    // Start is called before the first frame update
+    public GameObject StartGroup;
+    public GameObject ExplainGroup;
+    
     public void play()
     {
         SceneManager.LoadScene("SolarSystem");
+    }
+   public void ExplainBtn()
+    {
+        StartGroup.SetActive(false);
+        ExplainGroup.SetActive(true);
+    }
+    public void ExitBtn()
+    {
+        StartGroup.SetActive(true);
+        ExplainGroup.SetActive(false);
     }
 }

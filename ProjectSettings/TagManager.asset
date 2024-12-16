@@ -3,7 +3,20 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Sun
+  - Mercury
+  - Venus
+  - Earth
+  - Mars
+  - Jupiter
+  - Saturn
+  - Uranus
+  - Neptune
+  - explain
+  - Actors
+  - Anchor
+  - item
   layers:
   - Default
   - TransparentFX
