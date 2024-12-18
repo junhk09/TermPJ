@@ -16,6 +16,6 @@ public class NewBehaviourScript : MonoBehaviour
         transform.RotateAround(planet.transform.position, Vector3.up, Time.deltaTime * revSpeed * 1.0f);
 
         //ÀÚÀü
-        transform.Rotate(Vector3.up * rotSpeed * Time.deltaTime * 1.0f);
+        transform.Rotate(Vector3.up * rotSpeed * Time.deltaTime * 5.0f);
     }
 }

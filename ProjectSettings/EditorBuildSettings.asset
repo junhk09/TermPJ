@@ -14,6 +14,27 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SolarSystem.unity
     guid: 099f8d203a5b4f54e8888ef09c192cbe
+  - enabled: 1
+    path: Assets/Scenes/Venus.unity
+    guid: 407271c1bd78e7342871536127b2ff36
+  - enabled: 1
+    path: Assets/Scenes/Earth.unity
+    guid: fbafa8ffd72425d448f62501cc02b635
+  - enabled: 1
+    path: Assets/Scenes/Jupiter.unity
+    guid: c4ba128c7e1be7d47bb495b5382eefa4
+  - enabled: 1
+    path: Assets/Scenes/Mars.unity
+    guid: 025adcaf82e018044aeda3606068b504
+  - enabled: 1
+    path: Assets/Scenes/Neptune.unity
+    guid: 1ba47fca8a4bf4244aacf6fbb00cee33
+  - enabled: 1
+    path: Assets/Scenes/Saturn.unity
+    guid: c97f3e9d726ef4e4d9ffd3fc10481002
+  - enabled: 1
+    path: Assets/Scenes/Uranus.unity
+    guid: c9800d884250fc445bc1c16f1bd707cd
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bfa1182bd221b4ca89619141f66f1260, type: 2}
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: dc5a169419fa04987b057f65238cf3ba, type: 2}
