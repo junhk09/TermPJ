@@ -4,7 +4,11 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class OnclickBtn : MonoBehaviour
-{
+{   
+    public void OnClickMiniGame()
+    {
+        SceneManager.LoadScene("Mini Game");
+    }
     public void OnClickMercury()
     {
         SceneManager.LoadScene("Mercury");
