@@ -9,10 +9,9 @@ public class NewBehaviourScript : MonoBehaviour
 
     public GameObject planet;
 
-    // Update is called once per frame
-    void Update()
+    public void Rotate()
     {
-        //공전
+
         transform.RotateAround(planet.transform.position, Vector3.up, Time.deltaTime * revSpeed * 1.0f);
 
         //자전

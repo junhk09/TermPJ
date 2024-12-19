@@ -22,4 +22,9 @@ public class GameStart : MonoBehaviour
         StartGroup.SetActive(true);
         ExplainGroup.SetActive(false);
     }
+    public void MiniGame()
+    {
+        StartGroup.SetActive(false);
+        ExplainGroup.SetActive(false);
+    }
 }

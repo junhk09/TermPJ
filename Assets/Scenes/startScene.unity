@@ -179,7 +179,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\uAC8C\uC784 \uC124\uBA85"
+  m_text: Explain
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 83d5a3efcad422d408eab3153befa00d, type: 2}
   m_sharedMaterial: {fileID: -6287401501328160454, guid: 83d5a3efcad422d408eab3153befa00d, type: 2}
@@ -783,7 +783,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\uAC8C\uC784 \uC2DC\uC791"
+  m_text: Play
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 83d5a3efcad422d408eab3153befa00d, type: 2}
   m_sharedMaterial: {fileID: -6287401501328160454, guid: 83d5a3efcad422d408eab3153befa00d, type: 2}
@@ -1102,8 +1102,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1c28a0824c246ae44bad40eda6a80982, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  StartGroup: {fileID: 0}
-  ExplainGroup: {fileID: 0}
+  StartGroup: {fileID: 1759889102}
+  ExplainGroup: {fileID: 2007978458}
 --- !u!114 &722137745
 MonoBehaviour:
   m_ObjectHideFlags: 0
