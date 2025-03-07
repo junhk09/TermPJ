@@ -1,6 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
-using Unity.VRTemplate;
+
 using UnityEngine;
 using UnityEngine.SceneManagement;
 public class Mercury : MonoBehaviour
